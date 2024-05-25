@@ -1,0 +1,22 @@
+{
+  "name": "LuckyException",
+  "version": "0.1.0",
+  "summary": "A short description of LuckyException.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/汤俊杰/LuckyException",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "汤俊杰": "921969987@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/汤俊杰/LuckyException.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "LuckyException/Classes/**/*"
+}

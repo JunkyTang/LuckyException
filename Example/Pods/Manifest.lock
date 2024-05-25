@@ -1,0 +1,16 @@
+PODS:
+  - LuckyException (0.1.0)
+
+DEPENDENCIES:
+  - LuckyException (from `../`)
+
+EXTERNAL SOURCES:
+  LuckyException:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LuckyException: 6c861344ad0bbf6a1939e7d3891711644ccf4a3f
+
+PODFILE CHECKSUM: 4c452757f5b6fdb2c84e0540d501d92293a86066
+
+COCOAPODS: 1.15.2

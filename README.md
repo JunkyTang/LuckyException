@@ -22,7 +22,7 @@ pod 'LuckyException'
 
 ## Author
 
-汤俊杰, 921969987@qq.com
+Lucky, 921969987@qq.com
 
 ## License
 
